@@ -1,0 +1,30 @@
+{
+  "name": "get-class-statics",
+  "version": "0.0.1",
+  "description": "Get the ES6-like class statics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:quangbuule/get-class-statics.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "class",
+    "static",
+    "es6"
+  ],
+  "author": "Quangbuu Le <quangbuule@gmail.com> (http://lozi.vn/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quangbuule/get-class-statics/issues"
+  },
+  "homepage": "https://github.com/quangbuule/get-class-statics",
+  "devDependencies": {
+    "babel": "^4.7.3",
+    "mocha": "^2.2.0"
+  }
+}
